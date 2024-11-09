@@ -3,7 +3,7 @@
 ## Contributors
 - [Fakhri Muhammad Al Hisyam]
 - [Rafif Riqullah Siregar]
-- [nama3]
+- [guntur wahyu ]
 - [nama4]
 
 ## Deskripsi Proyek

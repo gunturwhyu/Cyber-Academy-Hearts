@@ -2,7 +2,7 @@
 
 ## Contributors
 - [Fakhri Muhammad Al Hisyam]
-- [nama2]
+- [Guntur Wahyu Laksono]
 - [nama3]
 - [nama4]
 
@@ -11,4 +11,4 @@ Konfigurasi dan simulasi server untuk SSH, FTP, Web, dan DNS.
 
 ## Branch
 - `development`: Branch untuk pengembangan utama.
-- `Fakhri`, `nama2`, `nama3`, `nama4`: Branch untuk masing-masing anggota.
+- `Fakhri`, `Guntur`, `nama3`, `nama4`: Branch untuk masing-masing anggota.
